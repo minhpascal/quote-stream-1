@@ -1,0 +1,1 @@
+This is a stream of quotes made with a full-stack JavaScript stack.
